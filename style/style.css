@@ -1,8 +1,14 @@
+/*--------------------------- Common css ------------------------------*/
+.section-margin{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
 /*--------------------------- toast part css ------------------------------*/
 
 .toast{
     position: absolute; 
-    top: 625px; 
+    top: 645px; 
     right: 10px;
 }
 
