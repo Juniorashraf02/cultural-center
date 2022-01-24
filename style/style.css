@@ -32,3 +32,19 @@
     color: black;
 }
 
+/*--------------------------- footer section css -------------------------*/
+
+
+.footer-bg{
+    background-color: #0B0D17;
+}
+a:link{
+    text-decoration: none;
+}
+.img{
+    width: 20%;
+    height:20%;
+    position: relative;
+    left: 75%;
+
+}
